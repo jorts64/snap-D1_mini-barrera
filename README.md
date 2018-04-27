@@ -1,6 +1,8 @@
 # snap-D1_mini-barrera
 Control des de SNAP de un pas a nivell amb barrera amb D1 mini
 
+![foto maqueta](/docs/maqueta1.jpg)
+
 ## Maquinari
 Hem construit una senzilla maqueta d'un pas a nivell amb barrera, amb
 * 2 servos 
