@@ -10,7 +10,7 @@ Hem construit una senzilla maqueta d'un pas a nivell amb barrera, amb
 * control wifi (D1 mini)
 
 ## Firmware D1 mini
-Tot el sistema es controla amb una interfície web accessible per una xarxa creada pel propi D1 minigit
+Tot el sistema es controla amb una interfície web accessible per una xarxa creada pel propi D1 mini. Aquest [firmware](/pasanivellB1.ino) s'ha de carregar amb l'Arduino IDE.
 
 ## Llibreria snap
-Hem implementat una llibreria snap per facilitar la codificació als alumnes de 2n d'ESO
+Hem implementat una [llibreria snap](/SNAP) per facilitar la codificació als alumnes de 2n d'ESO
